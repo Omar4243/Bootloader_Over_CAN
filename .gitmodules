@@ -1,3 +1,12 @@
 [submodule "01-SRC/MCAL/MCAL_STM32F103"]
 	path = 01-SRC/MCAL/MCAL_STM32F103
 	url = https://github.com/Omar4243/MCAL_STM32F103.git
+[submodule "01-SRC/HAL/HAL_Drivers"]
+	path = 01-SRC/HAL/HAL_Drivers
+	url = https://github.com/Omar4243/HAL_Drivers.git
+[submodule "01-SRC/OS/Operating_System"]
+	path = 01-SRC/OS/Operating_System
+	url = https://github.com/Omar4243/Operating_System.git
+[submodule "01-SRC/LIB/Std_LIB"]
+	path = 01-SRC/LIB/Std_LIB
+	url = https://github.com/Omar4243/Std_LIB.git
