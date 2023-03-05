@@ -1,0 +1,3 @@
+[submodule "01-SRC/MCAL/MCAL_STM32F103"]
+	path = 01-SRC/MCAL/MCAL_STM32F103
+	url = https://github.com/Omar4243/MCAL_STM32F103.git
