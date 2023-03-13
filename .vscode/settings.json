@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "rcc_cfg.h": "c",
+        "rcc_priv.h": "c",
+        "std_type.h": "c",
+        "uart_priv.h": "c",
+        "gpio_int.h": "c"
+    }
+}
